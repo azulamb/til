@@ -1,5 +1,10 @@
 # LEGO® Games 3845 Wild Wool (2010)
 
+Item: 4567558
+Player: 2-4
+Ages: 5+
+Time: 10-15
+
 ## Build
 
 Who will get the most wool from their sheep? Shear wool whenever you can - the other players will try to steal it from you or send the scary wolf your way. Grow, swap and scare your way to victory!
@@ -83,9 +88,8 @@ Every time you shear your sheep you must return one piece of wool to middle of t
 
 Change the LEGO Dice to this configulation:
 
-| Before | ⬜🟥 | ⬜🟩 | ⬛🟥 | ⬛🟩 | ⬜⬜ | x2 |
-| ------ | ---- | ---- | ---- | ---- | ---- | ---- |
-| After  | ⬛⬜ | ⬜🟩 | 🟩🟥 | 🟥⬜ | ⬜⬛ | x2 |
+| ⬛⬜ | ⬜🟩 | 🟩🟥 | 🟥⬜ | ⬜⬛ | x2 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 
 Whenever a player rolls gray you have to be fast!
 
