@@ -100,8 +100,8 @@ Whenever a player rolls gray you have to be fast!
 
 Now shen you roll gray, you can:
 
-A. Send the wolf to another player and take one piece of wool off that player's sheep and add it to your pile OR
-B. If the wolf is already placed next to player, take up to two pieces of wool off that player's sheep and add it to your pile. Return the wolf to the middle of the table.
+* A. Send the wolf to another player and take one piece of wool off that player's sheep and add it to your pile OR
+* B. If the wolf is already placed next to player, take up to two pieces of wool off that player's sheep and add it to your pile. Return the wolf to the middle of the table.
 
 ### Invent and share your own rules
 
