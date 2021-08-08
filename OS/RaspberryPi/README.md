@@ -65,6 +65,12 @@ Asia
 Tokyo
 ```
 
+##### L3 Keyboard
+
+UK → US
+
+`Generic 105-key PC(Intl.)` → `Other` → `English (US)` → `English (US)` → `The default for the keyboard layout` → `No compose key`
+
 ##### L4 WLAN Country
 
 ```
