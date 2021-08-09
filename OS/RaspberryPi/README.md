@@ -113,9 +113,9 @@ A1 Expand filesystem
 
 ##### S1 Wireless LAN
 
-### 8 Update
+#### 8 Update
 
-###　Other
+### Other
 
 ```sh
 sudo su -
