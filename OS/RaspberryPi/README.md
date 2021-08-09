@@ -162,3 +162,22 @@ userdel -r pi
 
 Reboot.
 
+## Other
+
+### NAS
+
+```
+sudo mkdir /mnt/nas
+sudo chmod 777 /mnt/nas
+sudo mount -t cifs //XXX.XXX.XXX.XXX/SHARE_DIR /mnt/nas -o username=USER,password=PASS,iocharset=utf8
+```
+
+```
+vim /etc/fstab
+```
+
+Add line.
+
+```
+//XXX.XXX.XXX.XXX/SHARE_DIR /mnt/nas cifs username=USER,password=PASS,file_mode=0755,dir_mode=0755,iocharset=utf8,uid=1000,gid=1000,forceuid,forcegid,_netdev 0 0
+```
