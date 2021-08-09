@@ -69,7 +69,29 @@ Tokyo
 
 UK → US
 
-`Generic 105-key PC(Intl.)` → `Other` → `English (US)` → `English (US)` → `The default for the keyboard layout` → `No compose key`
+```
+Generic 105-key PC(Intl.)
+```
+
+```
+Other
+```
+
+```
+English (US)
+```
+
+```
+English (US)
+```
+
+```
+The default for the keyboard layout
+```
+
+```
+No compose key
+```
 
 ##### L4 WLAN Country
 
@@ -85,9 +107,13 @@ A1 Expand filesystem
 
 #### 1 System Options
 
-```
-S1 Wireless LAN
-```
+##### S4 Hostname
+
+##### S6 Network at Boot
+
+##### S1 Wireless LAN
+
+### 8 Update
 
 ###　Other
 
@@ -101,10 +127,9 @@ sudo su -
 passwd
 ```
 
-#### Update and install editor.
+#### Update and install.
 
 ```
-apt-get update
 apt-get upgrade
 apt-get install vim
 ```
@@ -133,17 +158,6 @@ Reboot and login new user.
 
 ```
 userdel -r pi
-```
-
-#### Enable ssh
-
-
-
-#### Edit hostname
-
-```
-vim /etc/hostname
-vim /etc/hosts
 ```
 
 Reboot.
