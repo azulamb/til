@@ -166,6 +166,30 @@ Reboot.
 
 ### NAS
 
+#### nas
+
+
+### NAS
+
+```sh
+mkdir /mnt/nas
+chmod 777 /mnt/nas
+mount -t nfs XXX.XXX.XXX.XXX:/SHARE_DIR /mnt/nas
+```
+
+```sh
+vim /etc/fstab
+```
+
+Add line.
+
+```
+XXX.XXX.XXX.XXX:/SHARE_DIR /mnt/synology nfs defaults,_netdev 0 0
+```
+
+
+#### cifs
+
 ```sh
 mkdir /mnt/nas
 chmod 777 /mnt/nas
