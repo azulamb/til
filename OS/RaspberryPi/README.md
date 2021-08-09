@@ -117,38 +117,38 @@ A1 Expand filesystem
 
 ###　Other
 
-```
+```sh
 sudo su -
 ```
 
 #### Add root password.
 
-```
+```sh
 passwd
 ```
 
 #### Update and install.
 
-```
+```sh
 apt-get upgrade
 apt-get install vim
 ```
 
 ### Add user.
 
-```
+```sh
 adduser USERNAME
 ```
 
 Memo `pi` group.
 
-```
+```sh
 groups pi
 ```
 
 Add group
 
-```
+```sh
 usermod -G GROUP1,GROUP2,...,GROUPN USERNAME
 ```
 
@@ -156,7 +156,7 @@ Reboot and login new user.
 
 ### Disable pi
 
-```
+```sh
 userdel -r pi
 ```
 
@@ -166,13 +166,13 @@ Reboot.
 
 ### NAS
 
-```
-sudo mkdir /mnt/nas
-sudo chmod 777 /mnt/nas
-sudo mount -t cifs //XXX.XXX.XXX.XXX/SHARE_DIR /mnt/nas -o username=USER,password=PASS,iocharset=utf8
+```sh
+mkdir /mnt/nas
+chmod 777 /mnt/nas
+mount -t cifs //XXX.XXX.XXX.XXX/SHARE_DIR /mnt/nas -o username=USER,password=PASS,iocharset=utf8
 ```
 
-```
+```sh
 vim /etc/fstab
 ```
 
