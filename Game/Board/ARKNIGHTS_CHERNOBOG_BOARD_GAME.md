@@ -405,6 +405,24 @@ Crownslayer will still be affected by destroyed terrain.
 
 ### スカルシュレッダー(SKULLSHATTERER)
 
+Roll a 1-6: This skill has no effect (Skullshatterer moves normally).
+
+1-6が出ると、このスキルの効果はありません。（スカルシュレッダーは普通に動きます。）
+
+Roll a 7 or above destroy the terrain 1 square in front of Skullshatterer.
+
+7以上の出目でスカルシュレッダーの1マス前の地形を破壊します。
+
+#### Note:
+
+This MANUAL skill has unlimited uses, but may only take effect 2 times during the match.
+
+使用回数に制限はないが、試合中に2回までしか発動できない。
+
+Skullshatterer is immune to destroyed terrain.
+
+スカルシュレッダーは、破壊された地形の効果を無視します。
+
 ### フロストノヴァ(FROSTNOVA)
 
 ### W
