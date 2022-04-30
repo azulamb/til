@@ -156,7 +156,7 @@ This MANUAL skill has unlimited uses, but may only take effect 2 times during th
 ### アンジェリーナ(ANGELINA)
 
 Roll a 1-6: This skill has no effect (Angelina moves normally).
-1〜5が出ると、このスキルの効果はありません。（アンジェリーナは普通に動きます。）
+1-6が出ると、このスキルの効果はありません。（アンジェリーナは普通に動きます。）
 
 Roll 7 or above to designate any player to move.
 7以上を出すと、任意のプレイヤーの移動が指定されます。
@@ -236,6 +236,19 @@ This skill is PASSIVE.
 
 ### テキサス(TEXAS)
 
+Roll 1-6: This skill has no effect (Texas moves normally).
+
+1-6が出ると、このスキルの効果はありません。（テキサスは普通に動きます。）
+
+Roll a 7 or above to designate any token to move up to 6 squares in either direction.
+
+7以上が出ると、トークンを左右どちらかに6マスまで移動できるように指定できます。
+
+#### Note:
+
+This MANUAL skill has unlimited uses, but may only take effect 2 times during the match.
+
+使用回数に制限はないが、試合中に2回までしか発動できない。
 
 ### クロワッサン(CROISSANT)
 
