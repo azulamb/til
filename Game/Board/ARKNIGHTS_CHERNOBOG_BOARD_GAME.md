@@ -19,10 +19,10 @@ RHODOS ISLAND ♜' RECORDS_CHERNOBOG
 1. アクリルのチェス盤側の保護フィルムを剥がしてからご使用ください。
 2. アクリル板を組み立てる際はカラーコーティングがはがれないよう優しくお願いします。
 
-#### 補足：
-
-アクリルボードは飾るようかと思ったが一応裏面にゲームの盤面がある。こちらは紙製もあるが盤としてこちらも使えるのでその注意喚起と思われる。
-そのため紙を使うなら特に問題はなさそう。
+> note
+>
+> アクリルボードは飾るようかと思ったが一応裏面にゲームの盤面がある。こちらは紙製もあるが盤としてこちらも使えるのでその注意喚起と思われる。
+> そのため紙を使うなら特に問題はなさそう。
 
 ## CHERNOBOG BOARD GAME
 
@@ -54,8 +54,10 @@ Each player may select 4 tokens to add to their board.
 プレイヤーは順番にサイコロを振り、その出目でトークンを選びます。
 各プレイヤーは4つのトークンを選択し、自分のボードに追加することができます。
 
-補足：恐らくスキルがあるので各プレーヤーはダイスを使って使用するトークンを選んでくれという意味だと思います。
-例えばダイスを振って一番大きい人から一人選び、全員選び終わったらまた同じようにダイスを振って二人目を選ぶ……等の決め方があると思います。
+> note
+>
+> 恐らくスキルがあるので各プレーヤーはダイスを使って使用するトークンを選んでくれという意味だと思います。
+> 例えばダイスを振って一番大きい人から一人選び、全員選び終わったらまた同じようにダイスを振って二人目を選ぶ……等の決め方があると思います。
 
 Roll a 1 or 6 or 12 is known as "grace," and allows one token to leave Home and roll again afterwards.
 If a 1 or 6 or 12 is rolled there times consecutively with same numbers, all other player's fastest tokens except for those that have already reached the Finish will be returned to Home.
@@ -63,8 +65,10 @@ If a 1 or 6 or 12 is rolled there times consecutively with same numbers, all oth
 1か6か12を出すと「恵み」となり、ホームからトークン1個を取り出し、その後にもう一度ロールできるようになります。
 1、6、12のうち同じ数字が3回連続して出た場合、すでにゴールしたプレイヤーを除く他のプレイヤーの最後のトークンはすべてホームに戻されます。
 
-補足：`grace` がよくわからないもののとりあえずホームから盤面にトークンを出せるという意味であっていそう。
-また `latest` は最新や最後の意味があるため、最後尾のトークンなのか最先端のトークンなのかよくわかっていない。
+> note
+>
+> `grace` がよくわからないもののとりあえずホームから盤面にトークンを出せるという意味であっていそう。
+> また `latest` は最新や最後の意味があるため、最後尾のトークンなのか最先端のトークンなのかよくわかっていない。
 
 If a 1 or 6 or 12 is rolled when activating MANUAL skills, it will not count as a grace.
 
