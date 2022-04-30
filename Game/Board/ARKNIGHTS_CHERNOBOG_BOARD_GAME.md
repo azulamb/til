@@ -369,6 +369,21 @@ This skill is PASSIVE.
 
 ### シラユキ(SHIRAYUKI)
 
+Token located within three squares in front os Shirayuki cannnot move of activate MANUAL skills.
+
+シラユキの前方3マス以内にあるトークンは、移動も手動スキルの発動もできない。
+
+Effect is permanent until Shirayuki moves so that the tokens are no longer within the effect area.
+
+効果はシラユキが移動してトークンが効果範囲外になくなるまで永続します。
+
+
+#### Note:
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
+
 ### クラウンスレイヤー(CROWNSLAYER)
 
 ### スカルシュレッダー(SKULLSHATTERER)
