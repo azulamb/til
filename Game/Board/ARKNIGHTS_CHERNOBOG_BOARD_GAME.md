@@ -21,3 +21,9 @@ RHODOS ISLAND ♜' RECORDS_CHERNOBOG
 
 アクリルボードは飾るようかと思ったが一応裏面にゲームの盤面がある。こちらは紙製もあるが盤としてこちらも使えるのでその注意喚起と思われる。
 そのため紙を使うなら特に問題はなさそう。
+
+## CHERNOBOG BOARD GAME
+
+### The general rules are based upon the rules of Ludo / Pachisi / Aeroplane Chess.
+
+### 一般的なルールは、ルード（西洋） / パチーシ（インド） / 飛行機チェス（中国）のルールに基づきます。
