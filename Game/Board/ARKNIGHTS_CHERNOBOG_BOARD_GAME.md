@@ -55,6 +55,8 @@ Destroyed terrain cannot be restored in in that round.
 Upon reaching destroyed terrain, or being on a square that turns into destroyed terrain, that token is lost and must return to Home.
 Only Exusiai and Skullshatterer are unaffected by destroyed terrains.
 
+Tokens lands on Lungmen Rooftop 🏃 will be returned to Home.
+
 ### 一般的なルールは、ルード（西洋） / パチーシ（インド） / 飛行機チェス（中国）のルールに基づきます。
 
 プレイヤーは順番にサイコロを振り、その出目でトークンを選びます。
@@ -83,4 +85,6 @@ Wとクラウンスレイヤーだけは、障害物の影響を受けません�
 破壊された地形はそのラウンド中に復活させることはできません。
 破壊された地形に到達したとき、または破壊された地形になったマス にいるとき、そのトークンは失われ、ホームに戻らなければなりません。
 エクシアとスカルシュレッダーのみ、破壊された地形の影響を受けません。
+
+龍門屋上🏃に置かれたトークンはホームに戻されます。
 
