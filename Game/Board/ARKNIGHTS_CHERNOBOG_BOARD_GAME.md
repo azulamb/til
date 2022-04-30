@@ -147,10 +147,6 @@ Only Exusiai and Skullshatterer are unaffected by destroyed terrains.
 破壊された地形に到達したとき、または破壊された地形になったマス にいるとき、そのトークンは失われ、ホームに戻らなければなりません。
 エクシアとスカルシュレッダーのみ、破壊された地形の影響を受けません。
 
-> note
-> 
-> 破壊された地形用の印がありません。これは適当に用意しておくべきでしょう。
-
 Tokens lands on Lungmen Rooftop 🏃 will be returned to Home.
 
 龍門屋上(🏃)に置かれたトークンはホームに戻されます。
