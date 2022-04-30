@@ -267,7 +267,9 @@ If Croissant lands on a square that has a token in the square behind hers, push 
 > note
 > 
 > `＿ト＿` トークンが次のように配置されていて
+> 
 > `＿トク` クロワッサンが前に置かれると
+> 
 > `ト＿ク` 一つ戻されるという意味と思われます。
 
 The tokens being blocked still can activate MANUAL skills.
