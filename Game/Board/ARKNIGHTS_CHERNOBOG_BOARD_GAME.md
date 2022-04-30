@@ -122,6 +122,18 @@ THe first player to get two tokens to the Finish zone is the winner.
 
 ### アーミヤ(AMIYA)
 
+Roll a 12 to return up to 3 player's farthest tokens to Home.
+12がでると、3人のプレイヤーの一番進んだトークンをホームに戻します。
+
+Roll a 6 to return up to 2 player's farthest tokens to Home.
+6がでると、3人のプレイヤーの一番進んだトークンをホームに戻します。
+
+Roll a 7-11 to return 1 player's farthest tokens to Home.
+7-11がでると、1人のプレイヤーの一番進んだトークンをホームに戻します。
+
+Or roll a 1-5 for this skill to have no effect(Amiya will move normally).
+または、1〜5を出すと、このスキルの効果はありません。（アーミヤは普通に動きます。）
+
 ### アンジェリーナ(ANGELINA)
 
 ### レッド(RED)
