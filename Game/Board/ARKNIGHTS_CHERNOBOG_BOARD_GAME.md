@@ -340,6 +340,33 @@ This skill is PASSIVE.
 
 ### ショウ(SHAW)
 
+If a token is located 1 square in front of Show, push it forward 3 squares;
+
+トークンがショウの1マス手前にある場合、3マス前に押します。
+
+If a token is located 2 square in front of Show, push it forward 2 squares;
+
+トークンがショウの2マス手前にある場合、2マス前に押します。
+
+If a token is located 3 square in front of Show, push it forward 1 squares;
+
+トークンがショウの3マス手前にある場合、1マス前に押します。
+
+#### Note:
+
+This skill can push tokens past the Finish entrance.
+
+このスキルは、ゴールの入り口を通過するトークンを押し出すことができます。
+
+> note
+> 
+> これはゴール直前の角付近にいるトークンを押し飛ばしてもう一周させることができるという意味に見える。
+> ただし一部戻れるトークンや後ろに押し出しがいるので、それでもう一周しなくても済む可能性がある。
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
+
 ### シラユキ(SHIRAYUKI)
 
 ### クラウンスレイヤー(CROWNSLAYER)
