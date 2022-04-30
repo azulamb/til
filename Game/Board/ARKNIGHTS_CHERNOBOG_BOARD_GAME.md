@@ -48,6 +48,13 @@ Only W and Crownslayer are unaffected by obstacles.
 When a token lands on space of its own color, it immediately jumps to next square of its own color.
 When a token lands on one of the Shortcuts of its own color, it may take the shortcur ⏩, and any opponent's token in the path of the Shortcut will be returned to Home.
 
+Obstacles, and tokens with blocking skills cannot prevent other tokens from jumping.
+
+
+Destroyed terrain cannot be restored in in that round.
+Upon reaching destroyed terrain, or being on a square that turns into destroyed terrain, that token is lost and must return to Home.
+Only Exusiai and Skullshatterer are unaffected by destroyed terrains.
+
 ### 一般的なルールは、ルード（西洋） / パチーシ（インド） / 飛行機チェス（中国）のルールに基づきます。
 
 プレイヤーは順番にサイコロを振り、その出目でトークンを選びます。
@@ -69,3 +76,11 @@ Wとクラウンスレイヤーだけは、障害物の影響を受けません�
 
 トークンが自軍の色のスペースに到着したとき、それは次の自軍の色のマスにジャンプします。
 トークンが自軍の色のショートカット⏩に到着した場合、ショートカット⏩を取ることができ、そのショートカットの上にいる相手のトークンはホームに戻されます。
+
+障害物や、ブロックのスキルを持つトークンは、他のトークンのジャンプを防ぐことはできません。
+
+
+破壊された地形はそのラウンド中に復活させることはできません。
+破壊された地形に到達したとき、または破壊された地形になったマス にいるとき、そのトークンは失われ、ホームに戻らなければなりません。
+エクシアとスカルシュレッダーのみ、破壊された地形の影響を受けません。
+
