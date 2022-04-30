@@ -11,11 +11,13 @@ RHODOS ISLAND ♜' RECORDS_CHERNOBOG
 
 ### REMINDER:
 
-+ Please remove the protective film on the Chess Board side of the acrylic before use.
-+ Please be gentle when assembling the acrylic board to prevent color coating from peeling off.
+1. Please remove the protective film on the Chess Board side of the acrylic before use.
+2. Please be gentle when assembling the acrylic board to prevent color coating from peeling off.
 
-+ アクリルのチェス盤側の保護フィルムを剥がしてからご使用ください。
-+ アクリル板を組み立てる際は、カラーコーティングがはがれないよう、やさしくお願いします。
+----
+
+1. アクリルのチェス盤側の保護フィルムを剥がしてからご使用ください。
+2. アクリル板を組み立てる際は、カラーコーティングがはがれないよう、やさしくお願いします。
 
 #### 補足：
 
