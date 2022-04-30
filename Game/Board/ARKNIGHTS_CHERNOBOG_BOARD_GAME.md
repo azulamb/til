@@ -128,16 +128,20 @@ THe first player to get two tokens to the Finish zone is the winner.
 ### アーミヤ(AMIYA)
 
 Roll a 12 to return up to 3 player's farthest tokens to Home.
-12がでると、3人のプレイヤーの一番進んだトークンをホームに戻します。
+12が出ると、3人のプレイヤーの一番進んだトークンをホームに戻します。
 
 Roll a 6 to return up to 2 player's farthest tokens to Home.
-6がでると、3人のプレイヤーの一番進んだトークンをホームに戻します。
+6が出ると、3人のプレイヤーの一番進んだトークンをホームに戻します。
 
 Roll a 7-11 to return 1 player's farthest tokens to Home.
-7-11がでると、1人のプレイヤーの一番進んだトークンをホームに戻します。
+7-11が出ると、1人のプレイヤーの一番進んだトークンをホームに戻します。
 
 Or roll a 1-5 for this skill to have no effect(Amiya will move normally).
-または、1〜5を出すと、このスキルの効果はありません。（アーミヤは普通に動きます。）
+1〜5を出ると、このスキルの効果はありません。（アーミヤは普通に動きます。）
+
+> note
+> 
+> マニュアルスキルは宣言してからダイスロールなので、ダイスロール後1-5は普通にそのまま、それ以外の場合は止まったまま特殊効果がでるという意味と思われる。
 
 #### Note:
 
@@ -150,6 +154,28 @@ This MANUAL skill has unlimited uses, but may only take effect 2 times during th
 > 試合中とは恐らく盤面にいる状態なので、一度盤面に出れば2回使え、ホームに戻された後もう一度アーミヤが盤面上に出てきたら2回使えるという意味だと思われる。
 
 ### アンジェリーナ(ANGELINA)
+
+Roll a 1-6: This skill has no effect (Angelina moves normally).
+1〜5が出ると、このスキルの効果はありません。（アンジェリーナは普通に動きます。）
+
+Roll 7 or above to designate any player to move.
+7以上を出すと、任意のプレイヤーの移動が指定されます。
+
+If that player rolls a 7-12, that player will insted move 6 squares;
+指定されたプレーヤーが7-12を出した場合、そのプレイヤーは6マス移動します。
+
+If that player rolls a 1-6, that player will not be affected.
+指定されたプレイヤーが1-6を出した場合、そのプレイヤーは影響を受けません。
+
+#### Note:
+
+This MANUAL skill has unlimited uses, but may only take effect 2 times during the match.
+
+使用回数に制限はないが、試合中に2回までしか発動できない。
+
+> note
+>
+> アーミヤと同じ
 
 ### レッド(RED)
 
