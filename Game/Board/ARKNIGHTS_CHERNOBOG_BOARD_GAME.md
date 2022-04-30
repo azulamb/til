@@ -252,6 +252,34 @@ This MANUAL skill has unlimited uses, but may only take effect 2 times during th
 
 ### クロワッサン(CROISSANT)
 
+Blocks 1 token that must wait 2 squares behind Croissant.
+
+トークンを1体までブロックし、クロワッサンの後方1マスで待機させます。
+
+If blocked token rolls a 2, Croissant is insted sent back to Home;
+
+ブロックしたトークンの出目が2の場合、クロワッサンはホームに戻されます。
+
+If Croissant lands on a square that has a token in the square behind hers, push that token back 1 square.
+
+クロワッサンが他のトークンの前に置かれた場合、そのトークンを1マス後ろに押し出します。
+
+> note
+> 
+> `＿ト＿` トークンが次のように配置されていて
+> `＿トク` クロワッサンが前に置かれると
+> `ト＿ク` 一つ戻されるという意味と思われます。
+
+The tokens being blocked still can activate MANUAL skills.
+
+ブロックされているトークンは手動スキルを発動できます。
+
+#### Note:
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
+
 ### ソラ(SORA)
 
 ### チェン(CH'EN)
