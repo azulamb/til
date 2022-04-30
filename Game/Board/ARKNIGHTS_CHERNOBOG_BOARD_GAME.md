@@ -50,12 +50,13 @@ When a token lands on one of the Shortcuts of its own color, it may take the sho
 
 Obstacles, and tokens with blocking skills cannot prevent other tokens from jumping.
 
-
 Destroyed terrain cannot be restored in in that round.
 Upon reaching destroyed terrain, or being on a square that turns into destroyed terrain, that token is lost and must return to Home.
 Only Exusiai and Skullshatterer are unaffected by destroyed terrains.
 
 Tokens lands on Lungmen Rooftop 🏃 will be returned to Home.
+
+THe first player to get two tokens to the Finish zone is the winner.
 
 ### 一般的なルールは、ルード（西洋） / パチーシ（インド） / 飛行機チェス（中国）のルールに基づきます。
 
@@ -88,3 +89,4 @@ Wとクラウンスレイヤーだけは、障害物の影響を受けません�
 
 龍門屋上🏃に置かれたトークンはホームに戻されます。
 
+最初にゴールエリアに2つのトークンを置いたプレーヤーが勝者です。
