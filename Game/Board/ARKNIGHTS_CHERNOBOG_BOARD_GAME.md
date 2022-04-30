@@ -220,7 +220,22 @@ This skill is PASSIVE.
 
 ### エクシア(EXUSIAI)
 
+Nullifies all opponents' blocking effects, but will still blocked by obstacles.
+
+相手のブロック効果を全て無効化しますが、障害物にはブロックされます。
+
+This token is immute to the effects of destroyed terrain.
+
+このトークンは、破壊された地形の効果を無視します。
+
+#### Note:
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
+
 ### テキサス(TEXAS)
+
 
 ### クロワッサン(CROISSANT)
 
