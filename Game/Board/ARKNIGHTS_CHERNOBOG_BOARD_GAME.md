@@ -36,6 +36,9 @@ If a 1 or 6 or 12 is rolled there times consecutively with same numbers, all oth
 
 If a 1 or 6 or 12 is rolled when activating MANUAL skills, it will not count as a grace.
 
+MANUAL sukills must be activated before rolling the dice.
+Once activated, skills cannot be token back.
+
 ### 一般的なルールは、ルード（西洋） / パチーシ（インド） / 飛行機チェス（中国）のルールに基づきます。
 
 プレイヤーは順番にサイコロを振り、その出目でトークンを選びます。
@@ -44,4 +47,8 @@ If a 1 or 6 or 12 is rolled when activating MANUAL skills, it will not count as 
 1か6か12を出すと「恵み」となり、ホームからトークン1個を取り出し、その後にもう一度ロールできるようになります。
 1、6、12のうち同じ数字で3回連続して出た場合、すでにゴールしたプレイヤーを除く他のプレイヤーの最後のトークンはすべてホームに戻されます。
 
-手動スキル発動時に1、6、12が出た場合、「恵み」としてカウントされない。
+手動スキル発動時に1、6、12が出た場合、「恵み」にはカウントされません。
+
+手動スキルはサイコロを振る前に発動しておく必要があります。
+一度スキルを発動すると、トークンを戻すことはできません。
+
