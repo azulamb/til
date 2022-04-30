@@ -42,6 +42,9 @@ Once activated, skills cannot be token back.
 If a token lands on the same square as an opponent's tokens, those tokens are returned to Home;
 If a token lands on a square with an obstacle, the obstacle will be cleared.
 
+Even if W retreats, all obstacles will remain on the board until cleared by other tokens.
+Only W and Crownslayer are unaffected by obstacles.
+
 ### 一般的なルールは、ルード（西洋） / パチーシ（インド） / 飛行機チェス（中国）のルールに基づきます。
 
 プレイヤーは順番にサイコロを振り、その出目でトークンを選びます。
@@ -57,3 +60,6 @@ If a token lands on a square with an obstacle, the obstacle will be cleared.
 
 自分のトークンが相手のトークンと同じマスに置かれた場合、そのトークンはホームに戻されます。
 自分のトークンが障害物のあるマスに置かれた場合、その障害物は取り除かれます。
+
+Wが退却しても、他のトークンが取り除くまで、すべての障害物は盤面に残ります。
+Wとクラウンスレイヤーだけは、障害物の影響を受けません。
