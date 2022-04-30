@@ -425,4 +425,24 @@ Skullshatterer is immune to destroyed terrain.
 
 ### フロストノヴァ(FROSTNOVA)
 
+Roll a 1-6: This skill has no effect (FrostNova moves normally).
+
+1-6が出ると、このスキルの効果はありません。（フロストノヴァは普通に動きます。）
+
+Roll a 7 or above select player:
+
+7以上の出目でプレーヤーを選択します。
+
+If that player rolls a 1-6, they may only move 1 squares.
+
+そのプレイヤーが1-6を出した場合、1マスだけ移動することができます。
+
+If that player rolls a 7-12, they may only move normally.
+
+そのプレイヤーが7～12を出した場合、通常の移動しかできません。
+
+> note
+> 
+> 多分指定されたプレーヤーの次のターンに発動する能力だと思われる。
+
 ### W
