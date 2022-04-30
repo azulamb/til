@@ -284,7 +284,39 @@ This skill is PASSIVE.
 
 ### ソラ(SORA)
 
+Roll a 1-6: This skill has no effect (Sora moves normally).
+
+1-6が出ると、このスキルの効果はありません。（ソラは普通に動きます。）
+
+Roll a 7 or above to move Sora forward 3 squares, and reduce the next roll of all the other players by 3.
+
+7以上の出目でソラを3マス進め、他のすべてのプレイヤーの次の出目を3減らします。
+
+#### Note:
+
+This MANUAL skill has unlimited uses, but may only take effect 3 times during the match.
+
+使用回数に制限はないが、試合中に3回までしか発動できない。
+
+If a player rolls a 1 or 6 after the effect of this skill takes place, that roll does not count as a grace.
+
+このスキルの効果が発生した後に1や6を出した場合、その出目は恵みとしてカウントされない。
+
 ### チェン(CH'EN)
+
+Tokens located within two squares of Ch'en in either direction cannot move or activate MANUAL skills.
+
+チェンの左右2マス以内にあるトークンは、移動および手動スキルの発動ができません。
+
+Effect is permanent until Ch'en moves so that the tokens are no longer within the effect area.
+
+効果はチェンが移動してトークンが効果範囲外になくなるまで永続します。
+
+#### Note:
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
 
 ### ホシグマ(HOSHIGUMA)
 
