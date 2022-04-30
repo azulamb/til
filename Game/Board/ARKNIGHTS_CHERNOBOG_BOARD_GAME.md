@@ -179,7 +179,44 @@ This MANUAL skill has unlimited uses, but may only take effect 2 times during th
 
 ### レッド(RED)
 
+When Projekt Red leaves Home, all opponents are stunned, granting a free roll.
+
+Redがホームを出るとき、すべての対戦相手を気絶させ、フリーロールを付与します。
+
+> note
+> 
+> フリーロールがよくわからない。もう一度ダイスロール可能という意味？
+> 気絶は一回休みだと捉えるともう一度ターンが回ってくるという意味？
+
+### Note:
+
+This skill has umlimited uses.
+
+このスキルに使用制限がありません。
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
+
 ### クオーラ(CUORA)
+
+Blocks up to 2 tokens so that they must wait 1 square behind Cuora.
+
+トークンを2体までブロックし、クオーラの後方1マスで待機させます。
+
+If a blocked token rolls a 1, Cuora is instead sent back to Home.
+
+ブロックされたトークンが1を出した場合、代わりにクオーラはホームに戻されます。
+
+The tokens being blocked still can activate MANUAL skills.
+
+ブロックされているトークンは手動スキルを発動できます。
+
+### Note:
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
 
 ### エクシア(EXUSIAI)
 
