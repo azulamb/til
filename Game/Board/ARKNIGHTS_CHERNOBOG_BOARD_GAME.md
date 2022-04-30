@@ -377,7 +377,6 @@ Effect is permanent until Shirayuki moves so that the tokens are no longer withi
 
 効果はシラユキが移動してトークンが効果範囲外になくなるまで永続します。
 
-
 #### Note:
 
 This skill is PASSIVE.
@@ -385,6 +384,24 @@ This skill is PASSIVE.
 このスキルはパッシブです。
 
 ### クラウンスレイヤー(CROWNSLAYER)
+
+Ignores all obstacles and skills that have a blocking effect.
+
+妨害効果を持つ全ての障害物、スキルを無視します。
+
+> note
+> 
+> 押し出し等も妨害効果として適用されるのか不明。
+
+#### Note:
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
+
+Crownslayer will still be affected by destroyed terrain.
+
+クラウンスレイヤーは、破壊された地形の影響を受けません。
 
 ### スカルシュレッダー(SKULLSHATTERER)
 
