@@ -26,21 +26,45 @@ RHODOS ISLAND ♜' RECORDS_CHERNOBOG
 
 ## CHERNOBOG BOARD GAME
 
+### 用語について
+
+#### トークン
+
+キャラのこと。キャラはスキルも紐づいている。
+
+#### ホーム
+
+自分の陣地で4つのトークンを置いて置ける場所のこと。
+盤面に出ていない待ちのトークンがいる。
+
+#### スキル
+
+手動（`MANUAL`）とパッシブ（`PASSIVE`）がある。
+パッシブは常時発動だが手動はダイスロール前に使用を宣言する必要がある。
+
+#### 障害物
+
 ### The general rules are based upon the rules of Ludo / Pachisi / Aeroplane Chess.
 
 一般的なルールは、ルード（西洋） / パチーシ（インド） / 飛行機チェス（中国）のルールに基づきます。
 
-Players take turns rolling dice, and select tokens based opon their roll.
+Players take turns rolling dice, and select tokens based upon their roll.
 Each player may select 4 tokens to add to their board.
 
 プレイヤーは順番にサイコロを振り、その出目でトークンを選びます。
 各プレイヤーは4つのトークンを選択し、自分のボードに追加することができます。
 
+補足：恐らくスキルがあるので各プレーヤーはダイスを使って使用するトークンを選んでくれという意味だと思います。
+例えばダイスを振って一番大きい人から一人選び、全員選び終わったらまた同じようにダイスを振って二人目を選ぶ……等の決め方があると思います。
+
 Roll a 1 or 6 or 12 is known as "grace," and allows one token to leave Home and roll again afterwards.
 If a 1 or 6 or 12 is rolled there times consecutively with same numbers, all other player's fastest tokens except for those that have already reached the Finish will be returned to Home.
 
 1か6か12を出すと「恵み」となり、ホームからトークン1個を取り出し、その後にもう一度ロールできるようになります。
-1、6、12のうち同じ数字で3回連続して出た場合、すでにゴールしたプレイヤーを除く他のプレイヤーの最後のトークンはすべてホームに戻されます。
+1、6、12のうち同じ数字が3回連続して出た場合、すでにゴールしたプレイヤーを除く他のプレイヤーの最後のトークンはすべてホームに戻されます。
+
+補足：`grace` がよくわからないもののとりあえずホームから盤面にトークンを出せるという意味であっていそう。
+また `latest` は最新や最後の意味があるため、最後尾のトークンなのか最先端のトークンなのかよくわかっていない。
 
 If a 1 or 6 or 12 is rolled when activating MANUAL skills, it will not count as a grace.
 
@@ -89,3 +113,37 @@ Tokens lands on Lungmen Rooftop 🏃 will be returned to Home.
 THe first player to get two tokens to the Finish zone is the winner.
 
 最初にゴールエリアに2つのトークンを置いたプレーヤーが勝者です。
+
+## トークン
+
+### アーミヤ(AMIYA)
+
+### アンジェリーナ(ANGELINA)
+
+### レッド(RED)
+
+### クオーラ(CUORA)
+
+### エクシア(EXUSIAI)
+
+### テキサス(TEXAS)
+
+### クロワッサン(CROISSANT)
+
+### ソラ(SORA)
+
+### チェン(CH'EN)
+
+### ホシグマ(HOSHIGUMA)
+
+### ショウ(SHAW)
+
+### シラユキ(SHIRAYUKI)
+
+### クラウンスレイヤー(CROWNSLAYER)
+
+### スカルシュレッダー(SKULLSHATTERER)
+
+### フロストノヴァ(FROSTNOVA)
+
+### W
