@@ -39,6 +39,9 @@ If a 1 or 6 or 12 is rolled when activating MANUAL skills, it will not count as 
 MANUAL sukills must be activated before rolling the dice.
 Once activated, skills cannot be token back.
 
+If a token lands on the same square as an opponent's tokens, those tokens are returned to Home;
+If a token lands on a square with an obstacle, the obstacle will be cleared.
+
 ### 一般的なルールは、ルード（西洋） / パチーシ（インド） / 飛行機チェス（中国）のルールに基づきます。
 
 プレイヤーは順番にサイコロを振り、その出目でトークンを選びます。
@@ -52,3 +55,5 @@ Once activated, skills cannot be token back.
 手動スキルはサイコロを振る前に発動しておく必要があります。
 一度スキルを発動すると、トークンを戻すことはできません。
 
+自分のトークンが相手のトークンと同じマスに置かれた場合、そのトークンはホームに戻されます。
+自分のトークンが障害物のあるマスに置かれた場合、その障害物は取り除かれます。
