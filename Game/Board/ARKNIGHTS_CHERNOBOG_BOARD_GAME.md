@@ -320,6 +320,24 @@ This skill is PASSIVE.
 
 ### ホシグマ(HOSHIGUMA)
 
+Blocks up to 1 tokens so that they must wait 1 square behind Hoshiguma.
+
+トークンを1体までブロックし、ホシグマの後方1マスで待機させます。
+
+The token cannot move unless Hoshiguma moves.
+
+ホシグマが動かない限り、トークンは動くことができません。
+
+The tokens being blocked still can activate MANUAL skills.
+
+ブロックされているトークンは手動スキルを発動できます。
+
+#### Note:
+
+This skill is PASSIVE.
+
+このスキルはパッシブです。
+
 ### ショウ(SHAW)
 
 ### シラユキ(SHIRAYUKI)
