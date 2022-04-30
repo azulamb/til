@@ -59,6 +59,11 @@ Each player may select 4 tokens to add to their board.
 > 恐らくスキルがあるので各プレーヤーはダイスを使って使用するトークンを選んでくれという意味だと思います。
 > 例えばダイスを振って一番大きい人から一人選び、全員選び終わったらまた同じようにダイスを振って二人目を選ぶ……等の決め方があると思います。
 
+> note
+>
+> このゲームには「ロドス」「ペンギン急便」「龍門」「レユニオン」の陣営があり、この陣営ごとにバランスが取られている可能性があります。
+> そのためダイスを振って陣営を決めるという手もあるかと思います。
+
 Roll a 1 or 6 or 12 is known as "grace," and allows one token to leave Home and roll again afterwards.
 If a 1 or 6 or 12 is rolled there times consecutively with same numbers, all other player's fastest tokens except for those that have already reached the Finish will be returned to Home.
 
@@ -133,6 +138,16 @@ Roll a 7-11 to return 1 player's farthest tokens to Home.
 
 Or roll a 1-5 for this skill to have no effect(Amiya will move normally).
 または、1〜5を出すと、このスキルの効果はありません。（アーミヤは普通に動きます。）
+
+#### Note:
+
+This MANUAL skill has unlimited uses, but may only take effect 2 times during the match.
+
+使用回数に制限はないが、試合中に2回までしか発動できない。
+
+> note
+>
+> 試合中とは恐らく盤面にいる状態なので、一度盤面に出れば2回使え、ホームに戻された後もう一度アーミヤが盤面上に出てきたら2回使えるという意味だと思われる。
 
 ### アンジェリーナ(ANGELINA)
 
