@@ -9,7 +9,7 @@ Denoの公式サイトでは `https://deno.land/std` にアクセスすると最
 function OfficialStdVersion() {
 	return fetch('https://deno.land/std', { headers: { accept: 'text/html' }, redirect: 'manual' }).then((response) => {
 		const status = response.status;
-		if (status < 200 || 400 <= status) {
+		if (status < 300 || 400 <= status) {
 			throw new Error(`Access error: ${status}`);
 		}
 		const location = response.headers.get('location') || '';
