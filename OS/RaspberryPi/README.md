@@ -93,6 +93,18 @@ The default for the keyboard layout
 No compose key
 ```
 
+###### If setup auto.
+
+```
+cat /etc/default/keyboard
+XKBMODEL="pc105"
+XKBLAYOUT="us"
+XKBVARIANT=""
+XKBOPTIONS=""
+
+BACKSPACE="guess"
+```
+
 ##### L4 WLAN Country
 
 ```
