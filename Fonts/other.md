@@ -6,3 +6,5 @@
 * PlemolJP
   * https://forest.watch.impress.co.jp/docs/news/1359718.html
   * 日本語プログラミング向け
+* Pixelアート系のフォント集
+  * http://www17.plala.or.jp/xxxxxxx/00ff/
