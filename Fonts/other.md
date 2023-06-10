@@ -6,5 +6,7 @@
 * PlemolJP
   * https://forest.watch.impress.co.jp/docs/news/1359718.html
   * 日本語プログラミング向け
+* 美咲フォント
+  * https://littlelimit.net/misaki.htm
 * Pixelアート系のフォント集
   * http://www17.plala.or.jp/xxxxxxx/00ff/
