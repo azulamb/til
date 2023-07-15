@@ -9,4 +9,4 @@
 * 美咲フォント
   * https://littlelimit.net/misaki.htm
 * Pixelアート系のフォント集
-  * http://www17.plala.or.jp/xxxxxxx/00ff/
+  * https://hicchicc.github.io/00ff/
