@@ -13,3 +13,6 @@
   * https://littlelimit.net/misaki.htm
 * Pixelアート系のフォント集
   * https://hicchicc.github.io/00ff/
+* LINE Seed JP
+  * https://seed.line.me/index_jp.html
+  * LINEが作ったフォント
