@@ -1,5 +1,23 @@
 # ファビコンサイズまとめ
 
+## 最小対応
+
+| サイズ | 用途 | ファイル名 |
+|--------|------|------|
+| 32×32   | ブラウザ | favicon.ico |
+| 48×48   | Windows デスクトップ・タスクバー・Google推奨最低サイズ | favicon.ico |
+| 192×192 | Android Chrome | apple-touch-icon.png |
+| any | SVGで全用途 | favicon.svg |
+
+```
+<link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+```
+
+icoはファイルだけ置いておくことで未対応端末はそちらを使えるので、通常はSVG、iOSとか向けに専用PNG、未対応のみicoにできるっぽい。
+
+## 旧
+
 もっと色々あるんだろうけど、見つけ次第追加する方向で。
 
 | サイズ | 用途 | 参考 |
