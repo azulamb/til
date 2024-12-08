@@ -2,15 +2,15 @@
 
 もっと色々あるんだろうけど、見つけ次第追加する方向で。
 
-| サイズ | 用途 |
-|--------|------|
-| 16×16   | ブラウザ |
-| 32×32   | ブラウザ |
-| 48×48   | Windows デスクトップ・タスクバー |
-| 64×64   | Windows デスクトップ・タスクバー |
-| 152×152 | iOS・Androidホーム |
-| 180×180 | iOS・Androidホーム |
-| 192×192 | Android Chrome |
+| サイズ | 用途 | 参考 |
+|--------|------|------|
+| 16×16   | ブラウザ | |
+| 32×32   | ブラウザ | |
+| 48×48   | Windows デスクトップ・タスクバー・Google推奨最低サイズ | https://developers.google.com/search/docs/appearance/favicon-in-search?hl=ja |
+| 64×64   | Windows デスクトップ・タスクバー | |
+| 152×152 | iOS・Androidホーム | |
+| 180×180 | iOS・Androidホーム | |
+| 192×192 | Android Chrome | |
 
 ## HTML
 
