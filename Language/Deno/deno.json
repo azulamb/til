@@ -1,4 +1,5 @@
 {
+	"lock": false,
 	"tasks": {
 		"build": "tsc -p ./src"
 	},
