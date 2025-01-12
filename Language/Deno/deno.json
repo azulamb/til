@@ -1,0 +1,13 @@
+{
+	"tasks": {
+		"build": "tsc -p ./src"
+	},
+	"lint": {
+		"include": ["./docs", "./src", "./tools"]
+	},
+	"fmt": {
+		"include": ["./docs", "./src", "./tools"],
+		"singleQuote": true,
+		"semiColons": true
+	}
+}
