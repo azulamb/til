@@ -8,7 +8,6 @@
 	},
 	"fmt": {
 		"include": ["./docs", "./src", "./tools"],
-		"singleQuote": true,
-		"semiColons": true
+		"singleQuote": true
 	}
 }
