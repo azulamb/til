@@ -15,3 +15,7 @@ const IS_COMPILED = (() => {
   }
 })();
 ```
+
+## compile時のimport.metaの差分
+
+いくつかあるので後で書く
