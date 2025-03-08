@@ -6,6 +6,9 @@
 * UDEV Gothic
   * https://github.com/yuru7/udev-gothic/releases
   * プログラミング向け
+* monaspace
+  * https://monaspace.githubnext.com/
+  * プログラミング向け
 * 玉ねぎ楷書「激」
   * https://gyokutendo.booth.pm/items/2929647
 * 白源
