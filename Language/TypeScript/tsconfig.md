@@ -52,7 +52,7 @@
 		"preserveConstEnums": false,
 		"keyofStringsOnly": true,
 		"sourceMap": false
-  },
+	},
 	"include": [
 		"./src/*.ts"
 	]
