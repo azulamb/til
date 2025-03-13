@@ -36,27 +36,23 @@
 
 目標
 
-* `./docsapp.js` の1ファイルに結合して出力する
-* 出力ターゲットはES5
-* Promiseとか使いたいので、開発中のターゲットはES2017(出力ターゲットに合わせるとPromiseなどはデフォルトでないので使えない)
+* `./docs/app.js` の1ファイルに結合して出力する
+* 出力ターゲットはES2022
 
 ```
 {
 	"compilerOptions": {
 		"outFile": "../../docs/app.js",
-		"module": "system",
+		"module": "amd",
+		"target": "es2022",
 		"moduleResolution": "node",
-		"target": "es5",
-		"lib": [
-			"dom",
-			"es2017"
-		],
 		"strictNullChecks": true,
 		"noImplicitAny": true,
 		"removeComments": true,
 		"preserveConstEnums": false,
+		"keyofStringsOnly": true,
 		"sourceMap": false
-	},
+  },
 	"include": [
 		"./src/*.ts"
 	]
