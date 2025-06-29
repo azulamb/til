@@ -17,3 +17,5 @@
   * https://font.kim/
 * IBM Plex® typeface
   * https://github.com/IBM/plex
+* UDEV Gothic
+  * https://github.com/yuru7/udev-gothic
