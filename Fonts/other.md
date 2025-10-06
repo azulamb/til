@@ -8,3 +8,9 @@
   * https://font.kim/
 * IBM Plex® typeface
   * https://github.com/IBM/plex
+
+## メモ
+
+* Geist
+  * https://vercel.com/font
+  * Vercelが作ったフォント。
