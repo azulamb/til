@@ -26,6 +26,18 @@ https://www.clockworkpi.com/uconsole
 
 これでWi-Fiが正常に動くようになりネットワークに接続できるようになる。
 
+## 設定
+
+```
+lxterminal
+```
+
+```
+lxappearance
+```
+
+Widgetから `Adwaita-dark` を選ぶとダークモードになる
+
 ## インストール関連
 
 ### VS Code
