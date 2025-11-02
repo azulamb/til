@@ -25,3 +25,13 @@ https://www.clockworkpi.com/uconsole
 * `dhcpd` を選び終了後再起動
 
 これでWi-Fiが正常に動くようになりネットワークに接続できるようになる。
+
+## インストール関連
+
+### VS Code
+
+https://code.visualstudio.com/docs/setup/raspberry-pi
+
+```
+sudo apt install code
+```
