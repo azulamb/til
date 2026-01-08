@@ -43,4 +43,24 @@ Happy hacking! 🦕
 
 ### WebComponents
 
-追加する場合の手順を書く。
+型定義ファイルを作成
+
+```
+/// <reference lib="dom" />
+
+declare global {
+  namespace preact.JSX {
+    interface IntrinsicElements {
+      'web-component': Record<string, unknown>;
+    }
+  }
+}
+
+export {};
+```
+
+型定義ファイルを読み込むように `deno.json` に追加
+
+```
+    "types": ["vite/client", "./XXX/_types.d.ts"]
+```
