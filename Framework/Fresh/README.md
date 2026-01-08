@@ -64,3 +64,13 @@ export {};
 ```
     "types": ["vite/client", "./XXX/_types.d.ts"]
 ```
+
+適宜fmtのexcludeを追加する。
+
+```
+  "fmt": {
+    "include": ["./"],
+    "exclude": ["static/*.js", "resources/*"],
+    "singleQuote": true
+  },
+```
