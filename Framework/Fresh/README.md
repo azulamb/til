@@ -74,3 +74,19 @@ export {};
     "singleQuote": true
   },
 ```
+
+`vite.config.ts` のwatchから除外する。
+
+```
+export default defineConfig({
+  server: {
+    watch: {
+      ignored: [
+        '**/XXX/**',
+        '**/tmp/**',
+      ],
+    },
+  },
+  plugins: [fresh()],
+});
+```
