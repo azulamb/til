@@ -8,6 +8,9 @@
   * https://font.kim/
 * IBM Plex® typeface
   * https://github.com/IBM/plex
+* ねこスプーン
+  * https://inatsuka.com/extra/nekospoon/
+  * ゲーム上のテキスト表示を意識した日本語フォント
 
 ## メモ
 
