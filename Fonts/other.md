@@ -11,6 +11,9 @@
 * ねこスプーン
   * https://inatsuka.com/extra/nekospoon/
   * ゲーム上のテキスト表示を意識した日本語フォント
+* みにもっちり
+  * https://ssproject.booth.pm/items/8754853
+  * 6×8のちいさなフォント
 
 ## メモ
 
