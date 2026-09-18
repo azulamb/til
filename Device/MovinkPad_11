@@ -2,6 +2,15 @@
 
 https://estore.wacom.jp/ja-JP/category/portable-pads/wacom-movinkpad-11.html
 
+* Android
+  * 14
+* メモリ
+  * 8GB
+* ストレージ
+  * 128GB
+* 解像度
+  * 2200x1440
+
 ## ホームへのアプリ追加
 
 ホームのアプリ一覧は以下2つの方法で見れる。
@@ -10,3 +19,25 @@ https://estore.wacom.jp/ja-JP/category/portable-pads/wacom-movinkpad-11.html
 * 画面中央から上にスワイプして開く
 
 この内上のやり方だとホームにアプリを追加できないが、下のやり方で開いたアプリ一覧は普通のAndroidデバイスと同じくロングタップでアイコンを動かせるようになるとホームに遷移する。
+
+## Wacom MovinkPad Instant Pen Display
+
+ペンタブとしてPCに接続できる機能です。
+
+### MovinkPad側の準備
+
+* 開発者モードを有効化
+* USBデバッグを有効化
+* 設定→WacomLabからInstant Pen Display Modeを有効化
+
+### PC側の準備
+
+* Wacom MovinkPad Instant Pen Displayをインストール
+
+### 接続
+
+* PC側でWacom MovinkPad Instant Pen Displayを起動
+* PCとMovinkPadを接続
+* MovinkPad側で上からスワイプして通知を開き、左のショートカットからInstant Pen Displayをタップ
+* お互いのソフトウェアが起動して接続可能になる
+
