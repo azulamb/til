@@ -1,0 +1,12 @@
+# 8bitdo micro
+
+https://yourtreasure.jp/wp-content/uploads/2023/12/8bitdo-micro-manual.pdf
+
+* ドットハートみたいなのがホームボタン
+  * ホームボタンを押すと電源オン
+  * 3秒長押しで電源オフ
+  * 8秒長押しで強制終了
+* モードは3つ
+  * S ... Switvh
+  * D ... Android
+  * K ... キーボード
