@@ -10,6 +10,7 @@ https://yourtreasure.jp/wp-content/uploads/2023/12/8bitdo-micro-manual.pdf
   * S ... Switvh
   * D ... Android
   * K ... キーボード
+    * このモードかつAndroidホームでホームボタンを押すとデフォルトSキー入力→検索が立ち上がるという罠があるので設定アプリでNullにしたい
 
 ```
 ╭─────────┬───┐                 ┌───┬────────╮
