@@ -1,26 +1,37 @@
-class MyTag extends HTMLElement
-{
-	public static init( tagname = 'clothes-thumbnail' )
-	{
-		customElements.define( tagname, this );
-		// Default style.
-		const style = document.createElement( 'style' );
-		style.textContent = tagname + '{}'; //CSS
-		const rootElement = document.head;
-		rootElement.insertBefore( style, rootElement.children[ 0 ] );
-	}
-
-	static get observedAttributes() { return []; }
-
-	constructor()
-	{
-		super();
-		const shadow = this.attachShadow( { mode: 'open' } );
-	}
-
-	public attributeChangedCallback( name: string, oldValue: any, newValue: string )
-	{
-	}
+interface MyElement extends HTMLElement {
 }
 
-window.addEventListener( 'DOMContentLoaded', () => { MyTag.init(); } );
+((script) => {
+  const tagName = script.getAttribute('my-element-name') ?? 'my-element';
+  if (customElements.get(tagName)) {
+    return Promise.reject(new Error(`Custom element with name "${tagName}" already exists.`));
+  }
+  if (document.readyState !== 'loading') {
+    return Promise.resolve(tagName);
+  }
+  return new Promise<string>((resolve) => {
+    document.addEventListener('DOMContentLoaded', () => {
+      resolve(tagName);
+    });
+  });
+})(<HTMLScriptElement> document.currentScript).then((tagName) => {
+  const sheet = new CSSStyleSheet();
+  sheet.replaceSync(``);
+
+  customElements.define(
+    tagName,
+    class extends HTMLElement implements MyElement {
+
+      constructor() {
+        super();
+
+        const shadow = this.attachShadow({ mode: 'open' });
+        shadow.adoptedStyleSheets = [sheet];
+      }
+
+      static get observedAttributes() { return []; }
+      public attributeChangedCallback( name: string, oldValue: any, newValue: string ) {
+      }
+    },
+  );
+});
